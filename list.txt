@@ -1,9 +1,12 @@
-0.0.0.0 cdn.api.getjad.io
-0.0.0.0 cdn.onesignal.com
-0.0.0.0 privacy-center.org
-0.0.0.0 sdk.privacy-center.org
-0.0.0.0 cdn.promio-connect.com
-0.0.0.0 relevant-digital.com
-0.0.0.0 webedia-de-cdn.relevant-digital.com
-0.0.0.0 worker40-api.relevant-digital.com
-0.0.0.0 creatives.webedia-group.de
+cdn.api.getjad.io
+cdn.onesignal.com
+privacy-center.org
+privacy-center.org
+sdk.privacy-center.org
+cdn.promio-connect.com
+relevant-digital.com
+relevant-digital.com
+cdn.relevant-digital.com
+webedia-de-cdn.relevant-digital.com
+worker40-api.relevant-digital.com
+creatives.webedia-group.de
