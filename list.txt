@@ -6,3 +6,4 @@
 0.0.0.0 relevant-digital.com
 0.0.0.0 webedia-de-cdn.relevant-digital.com
 0.0.0.0 worker40-api.relevant-digital.com
+0.0.0.0 creatives.webedia-group.de
